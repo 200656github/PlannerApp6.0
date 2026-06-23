@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main app theme with Android 12+ splash screen attributes -->
+    <style name="Theme.PlannerApp" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Android 12+ splash screen -->
+        <item name="android:windowSplashScreenBackground">#FFF6F4F9</item>
+        <item name="android:statusBarColor">#FFF6F4F9</item>
+        <item name="android:navigationBarColor">#FFF6F4F9</item>
+    </style>
+</resources>
